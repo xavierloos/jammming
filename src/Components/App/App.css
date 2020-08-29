@@ -18,7 +18,9 @@ h1 {
 }
 
 h1 .highlight {
-  color: #6c41ec;
+  color: #01678d;
+  font-weight: bolder !important;
+  text-transform: capitalize !important;
 }
 
 h2 {
