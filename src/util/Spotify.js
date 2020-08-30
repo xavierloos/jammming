@@ -1,5 +1,5 @@
 const clientId = '2f8d55d18e85412f96d4c32b0c48b7df'; // Insert client ID here.
-const redirectUri = 'http://jammming-spotify-jlr-react.surge.sh'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const redirectUri = 'https://master.d1xfw0olw4wrqg.amplifyapp.com/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
