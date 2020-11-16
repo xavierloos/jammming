@@ -1,3 +1,4 @@
+![](https://placehold.it/1100x250/374c53/FFFFFF/?text=Jammming)
 
 Jammming is an app react with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
